@@ -7,7 +7,6 @@ C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.dll
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
-C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
@@ -34,3 +33,5 @@ C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
