@@ -34,4 +34,3 @@ C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
-C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
