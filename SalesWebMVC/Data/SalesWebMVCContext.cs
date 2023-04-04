@@ -18,5 +18,9 @@ namespace SalesWebMVC.Data
         public DbSet<Seller> Sellers { get; set; }
         public DbSet<SalesRecord> SalesRecord { get; set; }
 
+        internal object FindAll()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

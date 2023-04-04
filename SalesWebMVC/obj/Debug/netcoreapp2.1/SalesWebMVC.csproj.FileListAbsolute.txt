@@ -40,3 +40,4 @@ C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\fe652\OneDrive - Fundação Salvador Arena\CURSO_C#\SECAO 18 - PROJETO\SalesWebMvc\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs

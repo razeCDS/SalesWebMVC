@@ -9,7 +9,7 @@ namespace SalesWebMVC.Services
 {
     public class SellerService
     {
-        private readonly SalesWebMVCContext _context;
+        private readonly SalesWebMVCContext _context; // Objeto de contexto de comunicacao com banco de dados.
 
         public SellerService(SalesWebMVCContext context)
         {
@@ -18,7 +18,13 @@ namespace SalesWebMVC.Services
 
         public List<Seller> FindAll()
         {
-            return _context.Sellers.ToList();
+            return _context.Sellers.ToList(); // objeto de comunicacao esta retornando uma tabela em forma de lista
+        }
+
+        public void Insert(Seller obj)
+        {
+            _context.Add(obj);
+            _context.SaveChanges();
         }
     }
 }

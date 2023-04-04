@@ -40,8 +40,8 @@ namespace SalesWebMVC
             services.AddDbContext<SalesWebMVCContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("SalesWebMVCContext")));
 
-            services.AddScoped<SeedingService>();
-            services.AddScoped<SellerService>();
+            services.AddScoped<SeedingService>(); // servicos que eu criei, ao inseri-los aqui, posso utilizalos em outras classes
+            services.AddScoped<SellerService>(); // servicos que eu criei, ao inseri-los aqui, posso utilizalos em outras classes
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
