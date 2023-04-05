@@ -3,6 +3,7 @@ using SalesWebMVC.Data;
 using SalesWebMVC.Models;
 using SalesWebMVC.Services;
 using System.Linq;
+using SalesWebMVC.Models.ViewModels;
 
 namespace SalesWebMVC.Controllers
 {
@@ -10,13 +11,15 @@ namespace SalesWebMVC.Controllers
     {
         //private readonly SellerService _sellerService;
         private readonly SellerService _sellerService;
+        private readonly DepartmentService _departmentService;
 
-        public SellersController(SellerService sellerService)
+        public SellersController(SellerService sellerService, DepartmentService departmentService)
         {
             _sellerService = sellerService; // objeto do construtor para utilizar a classe SellerSer
+            _departmentService = departmentService;
         }
 
-        public IActionResult Index()
+        public IActionResult Index() // metodo IActionResult
         {
             var list = _sellerService.FindAll(); // utilizacao do metodo da classe de servico, a qual possui o objeto de comunicacao com o banco de dados.
             return View(list); // retorna a lista para a camada view na pagina index
@@ -26,7 +29,9 @@ namespace SalesWebMVC.Controllers
 
         public IActionResult Create() // pagina create
         {
-            return View();
+            var departments = _departmentService.FindAll();
+            var viewModel = new SellerFormViewModel {Departments = departments};
+            return View(viewModel); // retorna visualizacao pagina create
         }
 
         [HttpPost]

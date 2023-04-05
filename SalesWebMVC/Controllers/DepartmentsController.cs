@@ -26,7 +26,7 @@ namespace SalesWebMVC.Controllers
         }
 
         // GET: Departments/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(int? id) // tarefa IActionResult assincrona
         {
             if (id == null)
             {
