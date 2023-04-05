@@ -10,6 +10,7 @@ namespace SalesWebMVC.Services
     public class SellerService
     {
         private readonly SalesWebMVCContext _context; // Objeto de contexto de comunicacao com banco de dados.
+        private Seller Seller;
 
         public SellerService(SalesWebMVCContext context)
         {
@@ -24,6 +25,18 @@ namespace SalesWebMVC.Services
         public void Insert(Seller obj)
         {
             _context.Add(obj);
+            _context.SaveChanges();
+        }
+
+        public Seller FindById(int id)
+        {
+            return _context.Sellers.FirstOrDefault(obj => obj.Id == id);
+        }
+
+        public void Remove(int id)
+        {
+            var obj = _context.Sellers.Find(id);
+            _context.Sellers.Remove(obj);
             _context.SaveChanges();
         }
     }
